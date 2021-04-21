@@ -5,5 +5,4 @@ define('DB_NAME', 'Q18XIetNIx');
 define('DB_USER', 'Q18XIetNIx');
 define('DB_PASS', 'vhQS9fKKsi');
 
-
 ?>
