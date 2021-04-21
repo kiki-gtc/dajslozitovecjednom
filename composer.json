@@ -1,8 +1,9 @@
 {
     "name": "kk-github/test-666",
     "description": "Testiranje GotHub Actions CI sustava",
+    "license": "MIT",
     "require": {
-        "php" : "7.4"
+        "php" : ">=7.3"
     },
     "require-dev" : {
         "phpunit/phpunit" : "^9"
